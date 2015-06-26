@@ -1,0 +1,9 @@
+repeats
+n_vertices
+symetric (1/0 - true or false)
+nr_of_edges
+edge 1: x y //ommit edge 1:
+edge 2: x y
+edge 3: x y
+edge ...: x y
+edge nr_od_edges: x y
